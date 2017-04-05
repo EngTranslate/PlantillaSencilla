@@ -1,7 +1,7 @@
 # Mi proyecto
 Plantilla para un proyecto con la mayoría de texto en un silo documento
 
-* [Title](/Article/title.md)
+* [Title](/Article/title.md#user-content-title)
 * [Initial References](/Article/initial-references.md)
 * [Abstract](/Article/abstract.md)
 * [Introduction](/Article/introduction.md)
