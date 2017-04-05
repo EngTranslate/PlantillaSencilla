@@ -1,17 +1,17 @@
 # Mi proyecto
 Plantilla para un proyecto con la mayoría de texto en un silo documento
 
-* [Title](/Article/title.md#user-content-title)
-* [Initial References](/Article/initial-references.md)
-* [Abstract](/Article/abstract.md)
-* [Introduction](/Article/introduction.md)
-* [Materials and Methods](/Article/materials-and-methods.md)
-* [Results](/Article/results.md)
-* [Tables](/Article/tables.md)
-* [Discussion](/Article/discussion.md)
-* [Conflict of interest](/Article/conflict-of-interest.md)
-* [Acknowledgements](/Article/acknowledgements.md)
-* [References](/Article/initial-references.md)
+* [Title](/docs/title.md#user-content-title)
+* [Initial References](/docs/initial-references.md)
+* [Abstract](/docs/abstract.md)
+* [Introduction](/docs/introduction.md)
+* [Materials and Methods](/docs/materials-and-methods.md)
+* [Results](/docs/results.md)
+* [Tables](/docs/tables.md)
+* [Discussion](/docs/discussion.md)
+* [Conflict of interest](/docs/conflict-of-interest.md)
+* [Acknowledgements](/docs/acknowledgements.md)
+* [References](/docs/initial-references.md)
 
 ---
 
