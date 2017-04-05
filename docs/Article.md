@@ -1,5 +1,6 @@
-# Write your article's Title here
-
+# Title:
+**Write your article's Title here**
+## Initial References
 **Put references to authors, coauthors and other initial references here...**
 
 ## Abstract
