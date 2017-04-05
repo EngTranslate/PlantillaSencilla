@@ -1,7 +1,7 @@
 # Mi proyecto
 # [Borrador Inicial](/docs/Article.md)
 
-Plantilla para un proyecto con la mayoría de texto en un silo documento
+Plantilla para un proyecto con la mayoría de texto en un solo documento
 
 * [Title](/docs/Article.md#user-content-title)
 * [Initial References](/docs/Article.md#user-content-initial-references)
