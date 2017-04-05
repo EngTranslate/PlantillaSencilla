@@ -9,11 +9,11 @@ Plantilla para un proyecto con la mayoría de texto en un solo documento
 * [Introduction](/docs/Article.md#user-content-introduction)
 * [Materials and Methods](/docs/Article.md#user-content-materials-and-methods)
 * [Results](/docs/Article.md#user-content-results)
-* [Tables](/docs/Article.md)
+* [Tables](/docs/tables.md)
 * [Discussion](/docs/Article.md#user-content-discussion)
 * [Conflict of interest](/docs/Article.md#user-content-conflict-of-interest)
 * [Acknowledgements](/docs/Article.md#user-content-acknowledgements)
-* [References](/docs/Article.md)
+* [References](/docs/references.md)
 
 ---
 # [Articulo](/docs/final-draft.md)
