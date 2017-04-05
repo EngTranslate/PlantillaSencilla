@@ -1,4 +1,6 @@
 # Mi proyecto
+# [Borrador Inicial](/docs/Article.md)
+
 Plantilla para un proyecto con la mayoría de texto en un silo documento
 
 * [Title](/docs/Article.md#user-content-title)
@@ -14,6 +16,7 @@ Plantilla para un proyecto con la mayoría de texto en un silo documento
 * [References](/docs/Article.md)
 
 ---
+# [Articulo](/docs/final-draft.md)
 
 [How to get started writing.](https://github.com/EngTranslate/Proyectos/blob/master/guid.md)
 
